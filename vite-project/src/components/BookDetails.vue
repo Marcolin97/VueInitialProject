@@ -62,12 +62,29 @@ const addBookToUser =() => {
 
 .book-cover {
     grid-column: 1 / 2;
-    width: 200px;
+    width: auto;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    transition: transform 0.5s;
+    margin: auto;
 }
 
 .book-details {
     grid-column: 2 / 4;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
+.book-cover:hover {
+    transform: scale(1.5);
+}
+
+.btn-primary {
+    width: 200px;
+}
+
+
 </style>

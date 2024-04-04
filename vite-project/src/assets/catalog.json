@@ -26,7 +26,7 @@
         "lastname": "Rowling",
         "birth_year": 1965
       },
-      "url": "https://example.com/book/2"
+      "url": "https://m.media-amazon.com/images/I/51NUYJDvkgL._SY445_SX342_.jpg"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
         "lastname": "Rowling",
         "birth_year": 1965
       },
-      "url": "https://example.com/book/3"
+      "url": "https://www.lafeltrinelli.it/images/9781408855676_0_536_0_75.jpg"
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
         "lastname": "Martin",
         "birth_year": 1948
       },
-      "url": "https://example.com/book/4"
+      "url": "https://www.lafeltrinelli.it/images/9780006479888_0_536_0_75.jpg"
     },
     {
       "id": 5,
@@ -68,7 +68,7 @@
         "lastname": "Martin",
         "birth_year": 1948
       },
-      "url": "https://example.com/book/5"
+      "url": "https://www.lafeltrinelli.it/images/9780553579901_0_536_0_75.jpg"
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "lastname": "Martin",
         "birth_year": 1948
       },
-      "url": "https://example.com/book/6"
+      "url": "https://www.lafeltrinelli.it/images/9780553573428_0_536_0_75.jpg"
     },
     {
       "id": 7,
@@ -96,7 +96,7 @@
         "lastname": "Lee",
         "birth_year": 1926
       },
-      "url": "https://example.com/book/7"
+      "url": "https://pictures.abebooks.com/inventory/md/md31140062406.jpg"
     }
   ]
 }

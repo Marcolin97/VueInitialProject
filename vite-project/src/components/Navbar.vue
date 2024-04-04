@@ -8,6 +8,9 @@ import logo from '../assets/img/logo.png'
         <a class="navbar-brand mx-xl-5">
             <img :src="logo" alt="" width="50" height="50">
         </a>
+        <div class="ml-auto">
+            <router-link to="/user" class="btn btn-primary">User Page</router-link>
+        </div>
     </div>
     </nav>
 </template>

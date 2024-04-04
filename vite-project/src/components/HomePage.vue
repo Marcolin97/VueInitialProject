@@ -34,16 +34,15 @@ onMounted(async () => {
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
-    padding: 10px;
-    justify-items: center;
-    align-items: center;
+    grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     margin: 0 auto; 
     width: 80%; 
+    margin-top: 20px;
 }
 
 .grid-item {
+    grid-column: span 1;
     width: 100%;
     transition: background-color 0.3s ease;
 }
