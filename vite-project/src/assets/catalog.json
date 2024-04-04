@@ -1,0 +1,102 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "genres": ["Fantasy", "Young Adult"],
+      "year": 1997,
+      "publisher": "Bloomsbury Publishing",
+      "author": {
+        "id": 1,
+        "firstname": "J.K.",
+        "lastname": "Rowling",
+        "birth_year": 1965
+      },
+      "url": "https://i.ebayimg.com/images/g/oNwAAOSwbtVg0aJw/s-l500.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "genres": ["Fantasy", "Young Adult"],
+      "year": 1998,
+      "publisher": "Bloomsbury Publishing",
+      "author": {
+        "id": 1,
+        "firstname": "J.K.",
+        "lastname": "Rowling",
+        "birth_year": 1965
+      },
+      "url": "https://example.com/book/2"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "genres": ["Fantasy", "Young Adult"],
+      "year": 1999,
+      "publisher": "Bloomsbury Publishing",
+      "author": {
+        "id": 1,
+        "firstname": "J.K.",
+        "lastname": "Rowling",
+        "birth_year": 1965
+      },
+      "url": "https://example.com/book/3"
+    },
+    {
+      "id": 4,
+      "title": "A Game of Thrones",
+      "genres": ["Fantasy", "Epic"],
+      "year": 1996,
+      "publisher": "Bantam Spectra",
+      "author": {
+        "id": 2,
+        "firstname": "George R.R.",
+        "lastname": "Martin",
+        "birth_year": 1948
+      },
+      "url": "https://example.com/book/4"
+    },
+    {
+      "id": 5,
+      "title": "A Clash of Kings",
+      "genres": ["Fantasy", "Epic"],
+      "year": 1998,
+      "publisher": "Bantam Spectra",
+      "author": {
+        "id": 2,
+        "firstname": "George R.R.",
+        "lastname": "Martin",
+        "birth_year": 1948
+      },
+      "url": "https://example.com/book/5"
+    },
+    {
+      "id": 6,
+      "title": "A Storm of Swords",
+      "genres": ["Fantasy", "Epic"],
+      "year": 2000,
+      "publisher": "Bantam Spectra",
+      "author": {
+        "id": 2,
+        "firstname": "George R.R.",
+        "lastname": "Martin",
+        "birth_year": 1948
+      },
+      "url": "https://example.com/book/6"
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Mockingbird",
+      "genres": ["Fiction", "Southern Gothic"],
+      "year": 1960,
+      "publisher": "J. B. Lippincott & Co.",
+      "author": {
+        "id": 3,
+        "firstname": "Harper",
+        "lastname": "Lee",
+        "birth_year": 1926
+      },
+      "url": "https://example.com/book/7"
+    }
+  ]
+}
